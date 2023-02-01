@@ -22,10 +22,10 @@ export const Home = () => {
               <ListIcon as={CheckCircleIcon} color="#4abda7" spacing={10} />
               <Span>Add new contacts</Span>
             </ListItem>
-            <ListItem>
+            {/* <ListItem>
               <ListIcon as={CheckCircleIcon} color="#4abda7" />
               <Span>Update existing contacts</Span>
-            </ListItem>
+            </ListItem> */}
             <ListItem>
               <ListIcon as={CheckCircleIcon} color="#4abda7" />
               <Span>Delete your contacts</Span>
